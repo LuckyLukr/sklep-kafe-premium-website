@@ -7,7 +7,7 @@ export function SectionHero_SectionHero() {
       <div className="jean-hero-shell">
         <div className="relative z-10 max-w-7xl mx-auto px-6 flex flex-col lg:flex-row items-center gap-12 w-full">
         <div className="flex-1 flex flex-col gap-6 jean-panel-sticky jean-motion-layer jean-parallax-subtle" data-jean-reveal="true">
-          <h1 className="text-5xl lg:text-7xl font-extrabold tracking-tight" style={{ color: 'var(--color-text)', fontFamily: 'var(--font-heading)' }}>Místo, kde se čas zpomalí.</h1>
+          <h1 className="text-5xl lg:text-7xl font-extrabold tracking-tight" style={{ color: 'var(--color-text)', fontFamily: 'var(--font-heading)' }}>SKLEP KAFE</h1>
           <p className="text-lg" style={{ color: 'var(--color-muted)' }}>Výběrová káva, poctivé snídaně a sklenka vína v srdci Pálavy. Sklep Kafe je zastávka, na kterou se vrací.</p>
           <div><a href="#o-miste" className="jean-float inline-block px-8 py-3 rounded-full font-semibold text-white shadow-lg" style={{ backgroundColor: 'var(--color-primary)' }}>Objevte Sklep Kafe</a></div>
         </div>
